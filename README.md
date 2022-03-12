@@ -14,3 +14,7 @@ First Challenge, same usage of Labels and ImageView's but this time it's all on 
 ## Section 4 - Dicee
 First app with user interactions we used *IBActions* and *IBOutlets*.
 ![Dicee](documentation/dicee.png) 
+
+## [Challenge] Section 5 - Magic 8 ball
+Second challenge of this course, section prouporse was also to make sure we use *IBActions* and *IBOutlets* in order to make a decision making app.
+![Magic8](documentation/magic8.png)
