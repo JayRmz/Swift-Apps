@@ -18,3 +18,14 @@ First app with user interactions we used *IBActions* and *IBOutlets*.
 ## [Challenge] Section 5 - Magic 8 ball
 Second challenge of this course, section prouporse was also to make sure we use *IBActions* and *IBOutlets* in order to make a decision making app.
 ![Magic8](documentation/magic8.png)
+
+## Section 6 - AutoLayout and responsive UIs
+Going back to ** Dicee ** app, it's time to add some constraints into it, so user can rotate the device and the app will keep looking good.
+
+![Dicee](documentation/diceeLayout1.png) 
+![Dicee](documentation/diceeLayout2.png)
+
+### [Challenge] Section 6 PT. II - Calculator Layout
+AutoLayout challenge on creating a calculator UI, app it's not logic ready.
+![Calculator](documentation/calculatorUI.png)
+
