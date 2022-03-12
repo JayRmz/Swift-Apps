@@ -10,3 +10,7 @@ First Xcode and storybord introduction, Basic usage of Labels and ImageView's.
 ## [Challenge] Section 3 - I am Poor
 First Challenge, same usage of Labels and ImageView's but this time it's all on your own.
 ![IAmPoor](documentation/iampoor.png)
+
+## Section 4 - Dicee
+First app with user interactions we used *IBActions* and *IBOutlets*.
+![Dicee](documentation/dicee.png) 
