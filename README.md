@@ -29,3 +29,11 @@ Going back to ** Dicee ** app, it's time to add some constraints into it, so use
 AutoLayout challenge on creating a calculator UI, app it's not logic ready.
 ![Calculator](documentation/calculatorUI.png)
 
+## Section 7 - Xylophone
+** AVFoundation **  use for playing sounds, in this app no UI was managed, all was given by the course.
+![Xylophone](documentation/xylophone.png)
+
+## Section 8 - Egg Timer
+** Timer ** use for UI updates and there's also an **AVFoundation** implementation.
+![Egg Timer](documentation/eggTimer.png) 
+
