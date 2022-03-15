@@ -20,7 +20,7 @@ Second challenge of this course, section prouporse was also to make sure we use 
 ![Magic8](documentation/magic8.png)
 
 ## Section 6 - AutoLayout and responsive UIs
-Going back to ** Dicee ** app, it's time to add some constraints into it, so user can rotate the device and the app will keep looking good.
+Going back to **Dicee** app, it's time to add some constraints into it, so user can rotate the device and the app will keep looking good.
 
 ![Dicee](documentation/diceeLayout1.png) 
 ![Dicee](documentation/diceeLayout2.png)
@@ -30,10 +30,14 @@ AutoLayout challenge on creating a calculator UI, app it's not logic ready.
 ![Calculator](documentation/calculatorUI.png)
 
 ## Section 7 - Xylophone
-** AVFoundation **  use for playing sounds, in this app no UI was managed, all was given by the course.
+**AVFoundation**  use for playing sounds, in this app no UI was managed, all was given by the course.
 ![Xylophone](documentation/xylophone.png)
 
 ## Section 8 - Egg Timer
-** Timer ** use for UI updates and there's also an **AVFoundation** implementation.
+**Timer** use for UI updates and there's also an **AVFoundation** implementation.
 ![Egg Timer](documentation/eggTimer.png) 
+
+## Section 9 - Quizzler
+**MVC** design patter implementation with some basic UI updates
+![Quizzler](documentation/quizzler.png) 
 
