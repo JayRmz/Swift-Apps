@@ -44,3 +44,8 @@ AutoLayout challenge on creating a calculator UI, app it's not logic ready.
 ## [Challenge] Section 10 - Destini
 **MVC** design patter challenge implementation with some basic UI updates and story flow.
 ![Destini](documentation/destini.png) 
+
+## Section 11 - BMI Calculator
+Multi screen app, use of **Segues** and MVC design pattern.
+![BMI](documentation/bmi.png) 
+ 
