@@ -49,3 +49,6 @@ AutoLayout challenge on creating a calculator UI, app it's not logic ready.
 Multi screen app, use of **Segues** and MVC design pattern.
 ![BMI](documentation/bmi.png) 
  
+## [Challenge] Section 12 - Tipsy
+Challenge app with the usage of **Segues**.
+![Tipsy](documentation/tipsy.gif)
