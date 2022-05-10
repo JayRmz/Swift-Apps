@@ -52,3 +52,7 @@ Multi screen app, use of **Segues** and MVC design pattern.
 ## [Challenge] Section 12 - Tipsy
 Challenge app with the usage of **Segues**.
 ![Tipsy](documentation/tipsy.gif)
+
+## Section 13 - Clima
+API Requests, Protocols, Delegates, Extensions & CLLocation
+![Clima](documentation/clima.mp4)
