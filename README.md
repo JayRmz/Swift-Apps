@@ -59,4 +59,4 @@ API Requests, Protocols, Delegates, Extensions & CLLocation.
 
 ## [Challenge] Section 14 - ByteCon
 Challenge app with the usage of API Requests, Protocols, Delegates, Extensions.
-![ByteCon](documentation/ByteCon.gif)
+![ByteCoin](documentation/ByteCon.gif)
