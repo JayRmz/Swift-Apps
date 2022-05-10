@@ -54,5 +54,9 @@ Challenge app with the usage of **Segues**.
 ![Tipsy](documentation/tipsy.gif)
 
 ## Section 13 - Clima
-API Requests, Protocols, Delegates, Extensions & CLLocation
+API Requests, Protocols, Delegates, Extensions & CLLocation.
 ![Clima](documentation/clima.gif)
+
+## [Challenge] Section 14 - ByteCon
+Challenge app with the usage of API Requests, Protocols, Delegates, Extensions.
+![ByteCon](documentation/ByteCon.gif)
