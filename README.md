@@ -55,4 +55,4 @@ Challenge app with the usage of **Segues**.
 
 ## Section 13 - Clima
 API Requests, Protocols, Delegates, Extensions & CLLocation
-![Clima](documentation/clima.mp4)
+![Clima](documentation/clima.gif)
